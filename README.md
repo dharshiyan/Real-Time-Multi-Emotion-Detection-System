@@ -268,9 +268,9 @@ Your Name
 
 AI & Machine Learning Enthusiast
 
-GitHub: [https://github.com/your-username](https://github.com/dharshiyan)
+GitHub: [https://github.com/dharshiyan](https://github.com/dharshiyan)
 
-LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/dharshiyan)
+LinkedIn: [https://linkedin.com/in/dharshiyan](https://linkedin.com/in/dharshiyan)
 
 ---
 
