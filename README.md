@@ -264,7 +264,7 @@ This project helped in understanding:
 
 # Author
 
-Your Name
+Dharshiyan
 
 AI & Machine Learning Enthusiast
 
