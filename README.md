@@ -276,6 +276,6 @@ LinkedIn: [https://linkedin.com/in/dharshiyan](https://linkedin.com/in/dharshiya
 
 # License
 
-This project is developed for educational and research purposes.
+This project is licensed under the MIT License.
 
 ---
